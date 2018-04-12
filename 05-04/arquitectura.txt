@@ -1,0 +1,7 @@
+SERVER 			MIDDLEWARE			CLIENT
+Prode								Client1
+				request				http://app1.com/v1/recurso
+			<------------------------
+v1/recurso					
+				response			datos	
+			----------------------->
