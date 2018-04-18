@@ -26,3 +26,24 @@ Como (rol) quiero (algo) para poder (beneficio).
 Como Participante quiero ingresar el resultado para un encuentro para jugar.
 
 Como Administrador quiero dar de alta campeonas para organizar el juego.
+
+
+camelCase cuandoTenemosMasDeUnaPalabraEnElMetodoLoEscribimosAsi
+snake_case cuando_tenemos_mas_de_una_palabra_en_la_variable_la_escribimos_asi
+
+
+
+FUNCIONALIDADES 1
+
+Mod Acceso
+	Entidades: 
+		Usuario
+			username password email rol_usuario
+		RolUsuario
+			nombre
+Mod Campeonato
+	Entidates:
+		Campeonato
+			nombre fecha_inicio fecha_fin tipo_campeonato
+		TipoCampeonato
+			nombre  	
