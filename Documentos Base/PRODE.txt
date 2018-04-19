@@ -40,10 +40,14 @@ Mod Acceso
 		Usuario
 			username password email rol_usuario
 		RolUsuario
-			nombre
+			nombreuCampeonato
+		PerfilUsuario
+
 Mod Campeonato
-	Entidates:
+	Entidades:
 		Campeonato
 			nombre fecha_inicio fecha_fin tipo_campeonato
 		TipoCampeonato
 			nombre  	
+		Fecha
+		Equipo
