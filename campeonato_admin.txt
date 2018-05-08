@@ -1,0 +1,4 @@
+Campeonato: "Primer campeonato mundial del mundo"
+Administrador: nombre: "Administrador"
+	       apellido: "Maestro"
+	       dni: "111111111"
