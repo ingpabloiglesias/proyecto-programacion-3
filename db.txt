@@ -1,0 +1,2 @@
+campeonato: Primer campeonato del mundo mundial
+nombre: administrador, apellido: maestro, dni: 11111111
